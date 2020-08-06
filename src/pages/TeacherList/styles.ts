@@ -4,10 +4,8 @@ import { Archivo_700Bold } from '@expo-google-fonts/archivo';
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor:'#8257e5',
+        backgroundColor:'#f0f0f7',
         flex: 1,
-        justifyContent: 'center',
-        padding:40
     },
 
 });
